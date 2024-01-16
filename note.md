@@ -13,3 +13,6 @@
 - git branch -d {ten branch}
 - git push {link} {ten branch hien tai}
 - git remote add {ten goi} {link github} (dat ten cho mot link)
+- git push -u origin {ten branch}
+- git fetch origin (coi cai branch tren github)
+- git checkout -b {ten branch} origin/{ten branch github}
