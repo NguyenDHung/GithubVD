@@ -9,3 +9,4 @@
 - git checkout (dien vao id) (tro lai mot phien ban nao do)
 - git branch (hien thi cac nhanh hien dang co)
 - git checkout -b {ten cua branch} (tao ra mot branch moi)
+- git merge (tong hop cac branch lai voi nhau)
