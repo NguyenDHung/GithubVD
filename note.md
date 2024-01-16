@@ -4,3 +4,8 @@
 - git add
 - git reset
 - git commit 
+- git log (hien thi lich su commit)
+- git log --oneline (hien thi ngan gon lich su commit)
+- git checkout (dien vao id) (tro lai mot phien ban nao do)
+- git branch (hien thi cac nhanh hien dang co)
+- git checkout -b {ten cua branch} (tao ra mot branch moi)
