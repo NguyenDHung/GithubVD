@@ -12,7 +12,10 @@
 - git merge {ten cua branch can gop} (tong hop cac branch lai voi nhau)
 - git branch -d {ten branch}
 - git push {link} {ten branch hien tai}
-- git remote add {ten goi} {link github} (dat ten cho mot link)
+- git remote add origin {link github} (dat ten cho mot link)
 - git push -u origin {ten branch}
+- git clone {github url}
 - git fetch origin (coi cai branch tren github)
 - git checkout -b {ten branch} origin/{ten branch github}
+
+- Co the marge tren github
