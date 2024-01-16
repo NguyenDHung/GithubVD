@@ -11,4 +11,5 @@
 - git checkout -b {ten cua branch} (tao ra mot branch moi)
 - git merge {ten cua branch can gop} (tong hop cac branch lai voi nhau)
 - git branch -d {ten branch}
-- git push
+- git push {link} {ten branch hien tai}
+- git remote add {ten goi} {link github} (dat ten cho mot link)
