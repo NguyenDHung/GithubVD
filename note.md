@@ -2,6 +2,7 @@
 - git init
 - git status
 - git add
+- git restore --staged <tên của file>   (đưa về trạng thái trước khi add )
 - git reset
 - git commit 
 - git log (hien thi lich su commit)
